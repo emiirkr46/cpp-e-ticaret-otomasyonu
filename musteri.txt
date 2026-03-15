@@ -1,0 +1,21 @@
+MusteriNo,Ad,Soyad,KullaniciAdi,Sifre,MusteriTipi,SirketAdi,VergiNo
+1,Ali,Veli,aliveli,12345,Bireysel,,
+2,Ayse,Yilmaz,aysey,abcde,Bireysel,,
+3,Mehmet,Kaya,mkaya,pass123,Bireysel,,
+4,Fatma,Demir,fdemir,98765,Premium,,
+5,Ahmet,Can,ahmetc,can123,Bireysel,,
+6,Kerem,Ozkan,kozk,firm123,Kurumsal,TechnoSoft A.S.,1029384756
+7,Selin,Arslan,sarslan,corp56,Kurumsal,Arslan Holding,5566778899
+8,Murat,Aksoy,maksoy,pass890,Bireysel,,
+9,Elif,Korkmaz,ekorkmaz,elif11,Premium,,
+10,Yusuf,Ergin,yergin,yusuf22,Bireysel,,
+11,Deniz,Kara,dkara,dk2025,Kurumsal,Kara Bilişim Ltd.,3344556677
+12,Seda,Polat,sedap,spolat77,Bireysel,,
+13,Okan,Yildiz,oyildiz,okan33,Kurumsal,Yildiz Global A.S.,7788990011
+14,Berna,Sarac,bsarac,bb2024,Premium,,
+15,Hakan,Tunc,htunc,hak123,Bireysel,,
+16,Gizem,Sevinc,gsevinc,gs2023,Kurumsal,Sevinc Medya,1122334455
+17,Ozge,Erman,oerman,oz12,Bireysel,,
+18,Cemal,Toprak,ctoprak,ctp55,Bireysel,,
+19,Ece,Alp,ealp,ece77,Premium,,
+20,Tahir,Dogru,tdogru,tt9900,Kurumsal,Dogru Holding,6677889900
